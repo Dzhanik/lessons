@@ -7,36 +7,30 @@ div {
     float: left;
     text-align: center;
     font-family: Calibri, sans-serif;
+    position: relative;
+    display: block;
 }
 
 .card-2 {
     background: lightblue;
-    position: relative;
-    display: block;
     right: 100px;
     top: 25px;
 
 }
 .card-3 {
      background: greenyellow;
-     position: relative;
-     display: block;
      right: 200px;
      top: 50px;
 
  }
 .card-4 {
       background: indianred;
-      position: relative;
-      display: block;
       right: 300px;
       top: 75px;
 
   }
 .card-5 {
      background: darkslategrey;
-     position: relative;
-     display: block;
      right: 295px;
      top: 75px;
 
