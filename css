@@ -1,0 +1,43 @@
+div {
+    color: black;
+    width: 200px;
+    height: 352px;
+    border: solid 3px black;
+    box-shadow: 5px 1px 5px grey;
+    float: left;
+    text-align: center;
+    font-family: Calibri, sans-serif;
+}
+
+.card-2 {
+    background: lightblue;
+    position: relative;
+    display: block;
+    right: 100px;
+    top: 25px;
+
+}
+.card-3 {
+     background: greenyellow;
+     position: relative;
+     display: block;
+     right: 200px;
+     top: 50px;
+
+ }
+.card-4 {
+      background: indianred;
+      position: relative;
+      display: block;
+      right: 300px;
+      top: 75px;
+
+  }
+.card-5 {
+     background: darkslategrey;
+     position: relative;
+     display: block;
+     right: 295px;
+     top: 75px;
+
+ }
